@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(173, 114, 41);
+}
+th{
+    background-color: #808080;
+}
+tr:nth-child(even){
+    background-color: black;
+    color: white;
+}
+tr:nth-child(odd){
+    background-color: aliceblue;
+}
+
+
+table, th, td{
+    border: 2px solid white;
+}
+
